@@ -7,8 +7,8 @@ A collection of useful information that can be imparted or learned for frontend 
 
 ## Conferences
 
-* [Russian conferences](#russian-youtube-channels-and-meetups-recordings)
-* [English conferences](#english-youtube-channels-and-meetups-recordings)
+* [Russian conferences](#russian-conferences)
+* [English conferences](#english-conferences)
 
 ### Russian conferences
 
@@ -328,8 +328,8 @@ Munich, **Germany**
 
 ## Channels and meetups recordings
 
-* [Russian YouTube channels and meetups recordings](#russian-youtube-channels)
-* [English YouTube channels and meetups recordings](#english-youtube-channels)
+* [Russian YouTube channels and meetups recordings](#russian-youtube-channels-and-meetups-recordings)
+* [English YouTube channels and meetups recordings](#english-youtube-channels-and-meetups-recordings)
 
 ### Russian YouTube channels and meetups recordings
 
