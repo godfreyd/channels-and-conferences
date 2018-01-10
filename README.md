@@ -3,7 +3,7 @@
 A collection of useful information that can be imparted or learned for frontend developers:
 
 * [Conferences](#conferences)
-* [Channels](#channels-and-meetups-recordings)
+* [Channels and meetups recordings](#channels-and-meetups-recordings)
 
 ## Conferences
 
